@@ -1,2 +1,1 @@
-# Kolme
-A backup program.
+# DRAFT
